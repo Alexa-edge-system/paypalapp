@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script is for our tesla shop
 echo "Welcome to my Tesla shop"
 echo "How much are you willing to buy the Tesla for?"
 read price
